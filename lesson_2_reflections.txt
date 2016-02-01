@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 To initialize an empty git repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area offers a simple interface to see which files will be tracked and committed. So you can easily track/untrack files that you don't neeed any more.
